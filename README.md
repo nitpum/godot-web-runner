@@ -1,6 +1,6 @@
 # Godot Web Runner
 
-A simple cli to run Godot web on local machine
+A simple portable and executable to run Godot web on local machine. Written in Go
 
 ## How to use it
 
